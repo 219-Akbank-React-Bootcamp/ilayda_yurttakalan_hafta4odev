@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./categoryModal.css";
 import { Modal, Button, Row } from "antd";
 import CategoryList from "./CategoryList";
 import CategoryForm from "./CategoryForm";

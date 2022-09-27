@@ -3,7 +3,6 @@ import { v4 as uuidv4 } from "uuid";
 import TodoList from "./TodoList";
 import CategoryModal from "./category/CategoryModal";
 import { Button, Input, Select, Row, Col } from "antd";
-import "./todoForm.css";
 
 const TodoForm = () => {
   const [isCategoryModalOpen, setIsCategoryModalOpen] = useState(false);

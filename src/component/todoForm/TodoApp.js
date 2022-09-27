@@ -1,7 +1,6 @@
 import React from "react";
-import TodoForm from "../todoForm/TodoForm";
+import TodoForm from "./TodoForm";
 import "antd/dist/antd.css";
-import "./TodoApp.css";
 import { Layout } from "antd";
 
 const { Header, Content, Footer } = Layout;

@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import { v4 as uuidv4 } from "uuid";
 import { Form, Input, Button, Space } from "antd";
 import { PlusOutlined, MinusCircleOutlined } from "@ant-design/icons";
-import "./categoryEdit.css";
 
 const CategoryForm = ({
   setEditMode,
