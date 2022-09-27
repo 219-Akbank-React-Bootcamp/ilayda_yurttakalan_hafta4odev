@@ -1,0 +1,1 @@
+# ilayda_yurttakalan_hafta4odev
